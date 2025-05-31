@@ -195,6 +195,6 @@ Please write everything in a single project folder. Make sure it runs without er
 
 ## Acknowledgments
 
-- Created with assistance from Amazon Q CLI
+- This game was created using Amazon Q CLI as part of the [Build Games with Amazon Q CLI](https://community.aws/content/2xIoduO0xhkhUApQpVUIqBFGmAc/build-games-with-amazon-q-cli-and-score-a-t-shirt?lang=en) campaign.
 - Pygame library for game development
 - "Press Start 2P" font for the retro arcade feel
